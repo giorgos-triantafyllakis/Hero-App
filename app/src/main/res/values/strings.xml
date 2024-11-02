@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hero app</string>
+    <string name="no_connection">No Connection</string>
+    <string name="image_of_the_hero">image of the hero</string>
+    <string name="participation_text">Participation</string>
+    <string name="noInternetConnection">noInternetConnection</string>
+    <string name="heroimage">heroImage</string>
+</resources>
